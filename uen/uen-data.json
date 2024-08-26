@@ -1,0 +1,62 @@
+[
+	{
+		"uen": "624282725-5",
+		"entityName": "Jetwire",
+		"address": "598 Bultman Center",
+		"isActive": false
+	},
+	{
+		"uen": "125902200-5",
+		"entityName": "Chatterpoint",
+		"address": "98 Cardinal Trail",
+		"isActive": true
+	},
+	{
+		"uen": "691700645-9",
+		"entityName": "Pixonyx",
+		"address": "85 Trailsway Park",
+		"isActive": false
+	},
+	{
+		"uen": "814260739-5",
+		"entityName": "Devpulse",
+		"address": "48131 Jackson Hill",
+		"isActive": true
+	},
+	{
+		"uen": "018607349-6",
+		"entityName": "Skiba",
+		"address": "73026 Chive Point",
+		"isActive": true
+	},
+	{
+		"uen": "519933142-6",
+		"entityName": "Fivechat",
+		"address": "302 Kenwood Pass",
+		"isActive": true
+	},
+	{
+		"uen": "528863378-9",
+		"entityName": "Topicstorm",
+		"address": "9612 Independence Center",
+		"isActive": true
+	},
+	{
+		"uen": "786578883-5",
+		"entityName": "Chatterbridge",
+		"address": "565 Coolidge Court",
+		"isActive": true
+	},
+	{
+		"uen": "145092851-X",
+		"entityName": "Zoozzy",
+		"address": "2889 Maryland Lane",
+		"isActive": true
+	},
+	{
+		"uen": "915082407-4",
+		"entityName": "Topiclounge",
+		"address": "80 Kingsford Avenue",
+		"isActive": false
+	}
+]
